@@ -1,6 +1,7 @@
 # MCP File Manager(begineer)
 
 A Model Context Protocol (MCP) server that provides AI assistants with secure file system access and management capabilities.
+![Screenshot (149)](https://github.com/user-attachments/assets/7b52620b-79d8-4c11-b569-4b3239c350d7)
 
 ## Features
 
